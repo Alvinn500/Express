@@ -1,0 +1,6 @@
+{
+  "development": {
+    "storage": "./tugas.sqlite",
+    "dialect": "sqlite"
+  }
+}

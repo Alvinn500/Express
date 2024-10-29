@@ -1,5 +1,4 @@
 "use strict";
-// const { Model } = require("sequelize");
 // module.exports = (sequelize, DataTypes) => {
 //   class User extends Model {
 //     /**
@@ -87,7 +86,6 @@ User.init(
     timestamps: "true",
   }
 );
-// const user = sequelize.define("user", {
 //   name: {
 //     type: DataTypes.STRING,
 //     allowNull: false,
